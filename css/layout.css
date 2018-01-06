@@ -23,8 +23,10 @@
 }
 
 /* Posititoning Classes */
-#featured {
+.shadow {
   margin: 1%;
+}
+#featured {
   float: left;
   width: 66.666%;
 }
