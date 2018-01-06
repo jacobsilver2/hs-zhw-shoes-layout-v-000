@@ -50,6 +50,7 @@
   float: left;
   border-right: 5pm solid red;
   width: 31.333%;
+  padding-right: 5px;
 }
 #links {
   float: left;
