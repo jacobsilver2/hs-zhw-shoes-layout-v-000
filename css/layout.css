@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 #featured {
-  padding-right: 20px
+  margin: 1%;
   float: left;
   width: 66.666%;
 }
