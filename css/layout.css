@@ -43,14 +43,17 @@
 }
 
 #contact {
+  float: right;
   border-right: 5pm solid red;
   width: 33.333%;
 }
 #links {
+  float: right;
   border-right: 5pm solid red;
   width: 33.333%;
 }
 #follow {
+  float: right;
   border-right: 5pm solid red;
   width: 33.333%;
 }
