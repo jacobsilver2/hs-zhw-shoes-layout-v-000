@@ -23,5 +23,6 @@
 }
 
 /* Posititoning Classes */
-
-
+.featured {
+  width: 33.333%;
+}
