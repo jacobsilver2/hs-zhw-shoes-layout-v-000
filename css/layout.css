@@ -47,11 +47,12 @@
 }
 
 #contact {
-  
+
   float: left;
   width: 33.333%;
 }
 #links {
+  padding-left: 5px;
   float: left;
   width: 33.333%;
 }
