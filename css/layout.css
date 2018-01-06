@@ -42,6 +42,10 @@
   width: 31.333%;
 }
 
+#details {
+  margin: 1%;
+}
+
 #contact {
   float: left;
   border-right: 5pm solid red;
